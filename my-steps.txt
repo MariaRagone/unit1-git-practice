@@ -97,10 +97,14 @@ git add .
 git commit -m 'first commit'
 
 ### Step 5
-
+git remote add origin https://github.com/MariaRagone/unit1-git-practice.git
+git branch -M main
+git push -u origin main
 
 ### Step 6
-
+git add .
+git commit -m 'starting a menu'
+git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
